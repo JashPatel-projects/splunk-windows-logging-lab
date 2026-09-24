@@ -14,6 +14,8 @@ A hands-on implementation of an automated, real-time log ingestion pipeline stre
 
 
 
+```text
+
 +------------------------------------+           +------------------------------------+
 
 |         Windows VM (Endpoint)      |           |        Ubuntu 22.04 VM (SIEM)      |
