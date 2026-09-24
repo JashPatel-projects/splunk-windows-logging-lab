@@ -1,0 +1,19 @@
+# Operating system metadata files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.tmp
+*.log
+*.swp
+*~
+
+# Splunk runtime and dynamic files
+/var/
+/spool/
+*.manifest
+
+# IDE and editor settings
+.vscode/
+.idea/
